@@ -36,3 +36,4 @@ This project is part of my [Kaggle Competition](https://www.kaggle.com/competiti
 ## Navigating The Repository
 - [rainfall_prediction.ipynb](https://github.com/anshika-kashyap/rainfall-prediction/blob/main/rainfall_prediction.ipynb): Python script with Markdown codes to complete the project.
 - [predictions_for_test_data.csv](https://github.com/anshika-kashyap/rainfall-prediction/blob/main/predictions_for_test_data.csv): Resultant CSV file created by using rainfall prediction model.
+- [datasets](https://github.com/anshika-kashyap/rainfall-prediction/tree/main/datasets): Folder which consists the raw 'training' and 'testing' datasets.
