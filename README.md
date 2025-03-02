@@ -14,10 +14,10 @@ This project is part of my [Kaggle Competition](https://www.kaggle.com/competiti
 - Markdown
 
 ## Project Timeline
-- The project took 3 hours for completion.
-  - Hour 1: Exploratory Data Analysis [EDA] & Data Cleaning
-  - Hour 2: Model creation and selection
-  - Hour 3: Hyperparameter Tuning, Evaluation and Leaderboard Submission
+- The project took 3 days for completion.
+  - Day 1: Exploratory Data Analysis [EDA] & Data Cleaning
+  - Day 2: Model creation and selection
+  - Day 3: Hyperparameter Tuning, Evaluation and Leaderboard Submission
 
 ## Project Methodology
 -   Importing neecsary libraries and Loading datasets
