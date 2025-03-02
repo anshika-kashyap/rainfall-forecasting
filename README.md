@@ -1,5 +1,9 @@
 This project is part of my [Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s5e3/overview) submission. The competition notebook can be accessed [here](https://www.kaggle.com/code/anshikakashyap12/ps5e3-rainfall-forecasting).
 
+Predictive data analysis is the process of using historical data and machine learning algorithms to predict the future outcomes.
+
+Predictive modeling is the technique used in predictive analysis where a machine learning model is trained on past data to make future predictions regarding the target given.
+
 # Project Documentation
 
 ## Overview
