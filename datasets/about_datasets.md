@@ -1,3 +1,8 @@
+# About Datasets
+
+- train.csv: The training dataset; 'rainfall' is the binary target.
+- test.csv: The test dataset; our objective is to predict the probability of rainfall for each row.
+
 # Columns Descriptions
 
 The descriptions of the following columns are based on the raw 'train' dataset:
@@ -18,4 +23,4 @@ The descriptions of the following columns are based on the raw 'train' dataset:
 
 # Note
 
-All columns are present in both the datasets except the 'rainfall' column is not present in the 'test' dataset.
+All columns are present in both the datasets except, the 'rainfall' column is not present in the 'test' dataset.
