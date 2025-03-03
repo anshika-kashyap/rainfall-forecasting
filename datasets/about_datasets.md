@@ -1,5 +1,7 @@
 # About Datasets
 
+The datasets are about various factors that contribute to the probability of rainfall on a given day.
+
 - train.csv: The training dataset; 'rainfall' is the binary target.
 - test.csv: The test dataset; our objective is to predict the probability of rainfall for each row.
 
