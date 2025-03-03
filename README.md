@@ -13,15 +13,15 @@ Predictive modeling is the technique used in predictive analysis where a machine
 - Data Source: [Kaggle](https://www.kaggle.com/competitions/playground-series-s5e3/data)
 
 ## Tools Used
-- Python (for machine learning & data analysis)
-  - Pandas (for data manipulation and analysis)
-  - Numpy (for statistical analysis)
-  - Matplotlib.pyplot (for data visualization)
-  - Seaborn (for higher level data visualization)
-  - SkLearn (for machine learning)
-  - XGBoost (for model development)
 - Kaggle Notebook (for scripting & execution)
-- Markdown (for documentation & explanations)
+  - Python (for machine learning & data analysis)
+    - Pandas (for data manipulation and analysis)
+    - Numpy (for statistical analysis)
+    - Matplotlib.pyplot (for data visualization)
+    - Seaborn (for higher level data visualization)
+    - SkLearn (for machine learning)
+    - XGBoost (for model development)
+  - Markdown (for documentation & explanations)
 
 ## Project Timeline
 - The project took 3 days for completion.
