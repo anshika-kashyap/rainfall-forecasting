@@ -1,11 +1,13 @@
 # About Datasets
 
+## Overview
+
 The datasets are about various factors that contribute to the probability of rainfall on a given day.
 
 - train.csv: The training dataset.
 - test.csv: The test dataset.
 
-# Columns Descriptions
+## Columns Descriptions
 
 The descriptions of the following columns are based on the raw 'train' dataset:
 
@@ -23,6 +25,6 @@ The descriptions of the following columns are based on the raw 'train' dataset:
 - windspeed: Wind speed measured in kilometers per hour.
 - rainfall: Binary target variable indicating rainfall occurrence (1 for rain, 0 for no rain).
 
-# Note
+## Note
 
 All columns are present in both the datasets except, the 'rainfall' column is not present in the 'test' dataset.
