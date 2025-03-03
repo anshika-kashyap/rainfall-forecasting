@@ -1,6 +1,6 @@
 # Columns Descriptions
 
-The descriptions of the following columns are based on the raw train dataset:
+The descriptions of the following columns are based on the raw 'train' dataset:
 
 - id: Unique identifier for each record.
 - day: Day of the year, ranging from 1 to 365.
