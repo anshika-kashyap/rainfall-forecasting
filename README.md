@@ -21,7 +21,7 @@ Predictive modeling is the technique used in predictive analysis where a machine
 - The project took 3 days for completion.
   - Day 1: Exploratory Data Analysis [EDA] & Data Cleaning
   - Day 2: Model creation and selection
-  - Day 3: Hyperparameter Tuning, Evaluation and Leaderboard Submission
+  - Day 3: Hyperparameter Tuning, Evaluation and Concluding
 
 ## Project Methodology
 -   Importing neecsary libraries and Loading datasets
