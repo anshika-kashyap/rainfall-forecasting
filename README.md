@@ -38,6 +38,6 @@ Predictive modeling is the technique used in predictive analysis where a machine
 # About Repository
 
 ## Navigating The Repository
-- [rainfall_forecasting.ipynb](https://github.com/anshika-kashyap/rainfall-forecasting/blob/main/rainfall_forecasting.ipynb): Python script with Markdown codes to complete the project. Includes data analysis, data insights, model development and saving of model's output created with 'testing' dataset.
+- [rainfall_forecasting.ipynb](https://github.com/anshika-kashyap/rainfall-forecasting/blob/main/rainfall_forecasting.ipynb): Jupyter notebook to complete the project. Includes data analysis, data insights, model development and saving of model's output created with 'testing' dataset.
 - [predictions_for_test_data.csv](https://github.com/anshika-kashyap/rainfall-prediction/blob/main/predictions_for_test_data.csv): Resultant CSV file created by using rainfall prediction model.
 - [datasets](https://github.com/anshika-kashyap/rainfall-forecasting/tree/main/datasets): Folder which consists the raw 'training' and 'testing' datasets, and information about the datasets.
