@@ -23,13 +23,13 @@ Predictive modeling is the technique used in predictive analysis where a machine
     - XGBoost (for model development)
   - Markdown (for documentation & explanations)
 
-## Project Timeline
+## Timeline
 - The project took 3 days for completion.
   - Day 1: Exploratory Data Analysis [EDA] & Data Cleaning
   - Day 2: Model creation and selection
   - Day 3: Hyperparameter Tuning, Evaluation and Concluding
 
-## Project Methodology
+## Methodology
 -   Importing neecsary libraries and Loading datasets
 -   Executing Data Exploration
 -   Executing Data Preprocessing
@@ -37,13 +37,12 @@ Predictive modeling is the technique used in predictive analysis where a machine
 -   Testing Model with Test Dataset & Saving Result
 -   Drawing Conclusion
 
-## Project Deliverables
+## Deliverables
 - Descriptive Data Analysis of the provided dataset
 - A Machine Learning Model to predict rainfall for each day of the year
 
 # About Repository
 
-## Navigating The Repository
 - [datasets](https://github.com/anshika-kashyap/rainfall-forecasting/tree/main/datasets): Folder which consists the raw 'training' and 'testing' datasets, and information about the datasets.
 - [rainfall_forecasting.ipynb](https://github.com/anshika-kashyap/rainfall-forecasting/blob/main/rainfall_forecasting.ipynb): Jupyter notebook to complete the project. Includes data analysis, data insights, model development and saving of model's output created with 'testing' dataset.
 - [predictions_for_test_data.csv](https://github.com/anshika-kashyap/rainfall-prediction/blob/main/predictions_for_test_data.csv): Resultant CSV file created by using rainfall prediction model.
