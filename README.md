@@ -32,7 +32,7 @@ Predictive modeling is the technique used in predictive analysis where a machine
 ## Methodology
 -   Importing neecsary libraries and Loading datasets
 -   Executing Data Exploration
--   Executing Data Preprocessing
+-   Executing Data Cleaning
 -   Building Model For Prediction
 -   Testing Model with Test Dataset & Saving Result
 -   Drawing Conclusion
